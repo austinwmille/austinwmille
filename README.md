@@ -2,6 +2,7 @@
 
 - I am currently working on a ton of projects
 - The coding parts are kept here, mostly
+- Check out my other work @ austinmiller.net/projects
 - Feel free to get in touch
 
 <!--
