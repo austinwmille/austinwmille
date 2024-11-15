@@ -2,7 +2,7 @@
 
 - I am currently working on a ton of projects (some wrong people say 'too many' 😜)
 - The coding parts are kept here, mostly
-- The majority of the use of these repos are for web development projects
+- The majority of commits are for my webdev stuff
 - Check out my other work @ austinmiller.net/projects
 - Feel free to get in touch
 
