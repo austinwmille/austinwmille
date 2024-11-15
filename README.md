@@ -3,7 +3,7 @@
 - I am currently working on a ton of projects (some wrong people say 'too many' 😜)
 - The coding parts are kept here, mostly
 - The majority of commits are for my webdev stuff
-- Check out my other work @ [austinmiller.net](https://www.austinmiller.net/projects)
+- Check out some more creative work @ [austinmiller.net](https://www.austinmiller.net/projects)
 - Feel free to get in touch for *literally any* reason (or no reason at all!)
 
 <!--
