@@ -1,18 +1,11 @@
-### Hello there, reader 
+Hello there, reader! 👋
 
-- I am currently working on a ton of projects (some wrong people say 'too many' 😜)
-- The coding parts are kept here, mostly
-- The majority of commits are for my webdev stuff
-- Check out some more creative work @ [austinmiller.net](https://www.austinmiller.net/projects)
-- Feel free to get in touch for literally *any* reason (or *no* reason at all!)
+    🚀 I’m currently juggling a ton of projects (some wrong people claim it’s "too many" 😜).
+    💻 You’ll find most of the coding bits housed right here!
+    🔧 The majority of commits revolve around my web development endeavors.
+    🎨 For more creative work, check out austinmiller.net.
+    💌 Feel free to reach out for literally any reason—or even no reason at all!
 
-  *** I'm morally obligated to mention, ***
-  *** that as of 11/16/2024, ***
-  *** a significant amount of the works ***
-  *** hosted here was written ***
-  *** by ChatGPT. ***
+A Quick Note
 
-<!--
-**austinwmille/austinwmille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
+As of November 16, 2024, I’m morally obligated to share that a good chunk of the content here was co-authored by ChatGPT. (Because sharing credit is important!)
