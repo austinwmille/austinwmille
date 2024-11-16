@@ -5,6 +5,7 @@
 - The majority of commits are for my webdev stuff
 - Check out some more creative work @ [austinmiller.net](https://www.austinmiller.net/projects)
 - Feel free to get in touch for literally *any* reason (or *no* reason at all!)
+- I'm morally obligated to mention that 
 
 <!--
 **austinwmille/austinwmille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
