@@ -6,6 +6,8 @@
   -  🎨 For more creative work, check out [my website](https://www.austinmiller.net/projects) and [projects](https://www.austinmiller.net/projects).
   -  💌 Feel free to reach out for literally any reason—or even no reason at all!
 
+********************************************
+
 A Quick Note
 
-As of November 16, 2024, I’m morally obligated to share that a good chunk of the content here was co-authored by ChatGPT. (Because sharing credit is important!)
+As of November 16, 2024, I’m morally obligated to share that a good chunk of the content here (including this sentence!) was co-authored by ChatGPT.
