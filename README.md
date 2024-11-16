@@ -1,4 +1,4 @@
-## Hello there, reader! 👋
+# Hello there, reader! 👋
 
   -  🚀 I’m currently juggling a ton of projects (some wrong people claim "too many" 😜).
   -  💻 You’ll find most of the coding bits here.
@@ -10,4 +10,4 @@
 
 A Quick Note
 
-As of November 16, 2024, I’m morally obligated to share that a good chunk of the content here (including this sentence!) was co-authored by ChatGPT.
+As of November 16, 2024, I feel morally obligated to share that a good chunk of the content here (including this sentence!) was co-authored by ChatGPT.
