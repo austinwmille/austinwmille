@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"winget",
+			"exit",
+			"exit()",
+			"python"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/austi/GitHub",
+		"/C/Users/austi/Downloads"
+	],
+	"file_history":
+	[
+		"/C/Users/austi/Desktop/job search/besttotalcv/main.tex",
+		"/C/Users/austi/Desktop/job search/besttotalcv/modernsimplecv.sty",
+		"/C/Users/austi/Desktop/job search/besttotalcv/usflogo.svg",
+		"/C/Users/austi/AppData/Roaming/Sublime Text/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/austi/GitHub/animeaddict/scripts.js",
+		"/C/Users/austi/Desktop/job search/besttotalcv/main.log",
+		"/C/Users/austi/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/austi/GitHub/austinwmille.github.io/spotify.html",
+		"/C/Users/austi/GitHub/guess-who/readmesempai.txt",
+		"/C/Users/austi/GitHub/mcmodvid/subgen.py",
+		"/C/Users/austi/Desktop/mcmods/minecraft_footage/videosplit.py",
+		"/C/Users/austi/autoremote/calm.py",
+		"/C/Users/austi/Desktop/mcmods/avmerge.py",
+		"/C/Users/austi/Desktop/mcmods/avscombine.py",
+		"/C/Users/austi/Desktop/mcmods/jsfindredposts.js",
+		"/C/Users/austi/Desktop/mcmods/package.json",
+		"/C/Users/austi/Desktop/mcmods/package-lock.json",
+		"/C/Users/austi/Desktop/mcmods/subgen.py",
+		"/C/Users/austi/Desktop/mcmods/TIFUspyderv2.py",
+		"/C/Users/austi/Desktop/memeing/if only/subtoroot.py",
+		"/C/Users/austi/Desktop/memeing/if only/getifonlyvideo.py",
+		"/C/Users/austi/Desktop/memeing/if only/ffcrop.py",
+		"/C/Users/austi/Desktop/memeing/if only/croptest2.py",
+		"/C/Users/austi/Desktop/memeing/getYTvideo.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/scripts/quotematcher.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/scripts/pollyquote2voice.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/scripts/msoftt2v.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/scripts/finalvoice.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/vidtitle.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/shadowupload.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotetitle.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotefetch.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/avtcombine.py",
+		"/C/Users/austi/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home/clip.js",
+		"/C/Users/austi/Downloads/QA_Wolf_Take_Home/qa_wolf_take_home/README.md",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/clipboard.xml",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/clipboard.xmt.xml",
+		"/C/Users/austi/Desktop/guess who/videoPy.py",
+		"/C/Users/austi/Desktop/test.html",
+		"/C/Users/austi/Desktop/guess who/videoPy.txt",
+		"/C/Users/austi/Desktop/signature.html",
+		"/C/Users/austi/GitHub/austinwmille.github.io/austin3.css",
+		"/C/Users/austi/GitHub/austinwmille.github.io/austin3.html",
+		"/C/Users/austi/Desktop/memeing/if only/getifonlyvideo - Copy.py",
+		"/C/Users/austi/Downloads/getifonlyvideo.py",
+		"/C/Users/austi/Desktop/memeing/getvideo.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/clip.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/clip2.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/rmdashes.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/quotematcher.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/finalvoice.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/msoftt2v.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/pollyquote2voice.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotes/rmdashes.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/pollyquote2voice.py",
+		"/C/Users/austi/Desktop/cyberpunkquoteable/quotematcher.py",
+		"/C/Users/austi/Desktop/TIFUspyderv2.py",
+		"/C/Users/austi/GitHub/randompythonscripts/reddit/pollyvoGEN.py",
+		"/C/Users/austi/GitHub/randompythonscripts/reddit/TIFUspyderv2.py",
+		"/C/Users/austi/GitHub/randompythonscripts/simplyRETS.py",
+		"/C/Users/austi/GitHub/randompythonscripts/reddit/chatgptresponse(forcompletetransparency).txt",
+		"/C/Users/austi/Desktop/mcmods/videosplit.py",
+		"/C/Users/austi/GitHub/randompythonscripts/reddit/TIFUspyder.py",
+		"/C/Users/austi/GitHub/randompythonscripts/TIFUfetcher.py",
+		"/C/Users/austi/GitHub/randompythonscripts/python/script.py",
+		"/C/Users/austi/GitHub/randompythonscripts/python/simplyRETS.py",
+		"/C/Users/austi/GitHub/randompythonscripts/python/custom pcs draft.html",
+		"/C/Users/austi/GitHub/austinwmille.github.io/webservicesstyle.css",
+		"/C/Users/austi/GitHub/austinwmille.github.io/webservices.html",
+		"/C/Users/austi/GitHub/austinwmille.github.io/index.html",
+		"/C/Users/austi/GitHub/austinwmille.github.io/projects.html",
+		"/C/Users/austi/GitHub/chrimbus/chrimbus/chrimbus.js",
+		"/C/Users/austi/GitHub/chrimbus/chrimbus/chrimbus.css",
+		"/C/Users/austi/GitHub/chrimbus/chrimbus/index.html",
+		"/C/Users/austi/OneDrive/Desktop/animeaddict/scripts.js",
+		"/C/Users/austi/OneDrive/Desktop/animeaddict/styles.css",
+		"/C/Users/austi/OneDrive/Desktop/animeaddict/news.html",
+		"/C/Users/austi/OneDrive/Desktop/animeaddict/index.html",
+		"/C/Users/austi/OneDrive/Desktop/animeaddict/style.css",
+		"/C/Users/austi/GitHub/animeaddict/index.html",
+		"/C/Users/austi/GitHub/animeaddict/style.css",
+		"/C/Users/austi/GitHub/animeaddict/index.html.sublime-project",
+		"/C/Users/austi/GitHub/austinwmille.github.io/resume.html",
+		"/C/Users/austi/GitHub/austinwmille.github.io/splash.js",
+		"/C/Users/austi/Downloads/platformer_update_on_coin.py",
+		"/C/Users/austi/Downloads/stick_figure_platformer_updated.py",
+		"/C/Users/austi/Downloads/enhanced_platformer_with_collision - Copy.py",
+		"/C/Users/austi/Downloads/platformer_fixed_jump.py",
+		"/C/Users/austi/OneDrive/Desktop/job search/Job_Application_Tracker_Template_Enhanced.xlsx",
+		"/C/Users/austi/OneDrive/Desktop/job search/organized/Job_Application_Tracker_Template_Enhanced.xlsx",
+		"/C/Users/austi/Downloads/portfolio.pdf",
+		"/C/Users/austi/GitHub/austinwmille.github.io/austin4.css",
+		"/C/Users/austi/GitHub/austinwmille.github.io/about.html",
+		"/C/Users/austi/GitHub/austinwmille.github.io/minecraft.html",
+		"/C/Users/austi/Downloads/snapcodes/snapcodeBitmoji.svg"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fa",
+			"fontawe",
+			"late",
+			"error",
+			"paracol",
+			"#5",
+			"event",
+			"medal.jpeg",
+			"medal.jpe",
+			"medal.jpeg",
+			"disney.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "nips'sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\austi\\GitHub\\oldpage\\austin3.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
