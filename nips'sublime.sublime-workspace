@@ -92,6 +92,18 @@
 		"selected_items":
 		[
 			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"term op",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
 				"side",
 				"View: Toggle Side Bar"
 			],
@@ -125,11 +137,16 @@
 	"expanded_folders":
 	[
 		"/C/Users/austi/GitHub",
-		"/C/Users/austi/GitHub/austinwmille",
-		"/C/Users/austi/Downloads"
+		"/C/Users/austi/GitHub/austinwmille.github.io",
+		"/C/Users/austi/GitHub/austinwmille.github.io/images"
 	],
 	"file_history":
 	[
+		"/C/Users/austi/Desktop/job search/firstfinishedcv.pdf",
+		"/C/Users/austi/GitHub/austinwmille.github.io/index.html",
+		"/C/Users/austi/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/austi/AppData/Roaming/Sublime Text/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/austi/AppData/Roaming/Sublime Text/Packages/User/Side Bar.sublime-settings",
 		"/C/Users/austi/Desktop/job search/besttotalcv/main.tex",
 		"/C/Users/austi/Desktop/job search/besttotalcv/modernsimplecv.sty",
 		"/C/Users/austi/Desktop/job search/besttotalcv/usflogo.svg",
@@ -199,7 +216,6 @@
 		"/C/Users/austi/GitHub/randompythonscripts/python/custom pcs draft.html",
 		"/C/Users/austi/GitHub/austinwmille.github.io/webservicesstyle.css",
 		"/C/Users/austi/GitHub/austinwmille.github.io/webservices.html",
-		"/C/Users/austi/GitHub/austinwmille.github.io/index.html",
 		"/C/Users/austi/GitHub/austinwmille.github.io/projects.html",
 		"/C/Users/austi/GitHub/chrimbus/chrimbus/chrimbus.js",
 		"/C/Users/austi/GitHub/chrimbus/chrimbus/chrimbus.css",
@@ -228,7 +244,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 41.0
 	},
 	"find_in_files":
 	{
@@ -274,16 +290,24 @@
 		{
 			"sheets":
 			[
+				{
+					"file": "/C/Users/austi/GitHub/austinwmille.github.io/images/hbirdUp.jpg",
+					"selected": true,
+					"semi_transient": true,
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "image"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"input":
 	{
-		"height": 39.0
+		"height": 41.0
 	},
 	"layout":
 	{
@@ -308,6 +332,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 126.0
+	},
 	"output.exec":
 	{
 		"height": 126.0
@@ -324,7 +352,7 @@
 	"project": "nips'sublime.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
