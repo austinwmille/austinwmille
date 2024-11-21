@@ -2,13 +2,16 @@
 	"folders":
 	[
 		{
-			"path": "C:\\Users\\austi\\GitHub"
+			"path": "C:\\Users\\austi\\GitHub",
 		},
 		{
-			"path": "C:\\Users\\austi\\Downloads"
+			"path": "C:\\Users\\austi\\Downloads",
 		},
 		{
-			"path": "C:\\Users\\austi\\Desktop"
-		}
-	]
+			"path": "C:\\Users\\austi\\Desktop",
+		},
+		{
+			"path": "C:\\Users\\austi\\Desktop\\pics"
+		},
+	],
 }
