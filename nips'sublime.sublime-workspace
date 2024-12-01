@@ -36,147 +36,16 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/austi/Desktop/pics/longform/long2clip.py",
-			"redo_stack":
-			[
-				[
-					23,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAAAAAAAAAAA6woAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			],
+			"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipme.py",
 			"settings":
 			{
-				"buffer_size": 2795,
+				"buffer_size": 556,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
 			[
-				[
-					4,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAAAAAAAAAAAAAAAAAAAAAC1CgAAaW1wb3J0IG9zCmZyb20gY2xpcHNhaSBpbXBvcnQgVHJhbnNjcmliZXIsIENsaXBGaW5kZXIsIHJlc2l6ZSwgTWVkaWFFZGl0b3IsIEF1ZGlvVmlkZW9GaWxlCgojIGFkZGluZyBhIG1pc3NpbmcgZGVwZW5kZW5jeToKaW1wb3J0IG5sdGsKbmx0ay5kb3dubG9hZCgncHVua3QnKQoKIyBEZWZpbmUgdGhlIHBhdGhzIGZvciByb290LCBvdXRwdXQsIGFuZCBhcmNoaXZlIGRpcmVjdG9yaWVzCnJvb3RfZGlyZWN0b3J5ID0gIi4iICAjIFZpZGVvcyBhcmUgaW4gdGhlIHJvb3QgZGlyZWN0b3J5Cm91dHB1dF9kaXJlY3RvcnkgPSAiLi8nZmluaXNoZWQgY2xpcHMnIgpvcmlnaW5hbF92aWRlb3NfZGlyZWN0b3J5ID0gIi4vJ29yaWdpbmFsIHZpZHMnIgoKIyBFbnN1cmUgb3V0cHV0IGFuZCBhcmNoaXZlIGRpcmVjdG9yaWVzIGV4aXN0Cm9zLm1ha2VkaXJzKG91dHB1dF9kaXJlY3RvcnksIGV4aXN0X29rPVRydWUpCm9zLm1ha2VkaXJzKG9yaWdpbmFsX3ZpZGVvc19kaXJlY3RvcnksIGV4aXN0X29rPVRydWUpCgojIFB5YW5ub3RlIGF1dGhlbnRpY2F0aW9uIHRva2VuIChyZXF1aXJlZCBmb3IgZGlhcml6YXRpb24pCnB5YW5ub3RlX2F1dGhfdG9rZW4gPSAiaGZfV1dTeHhQc3VzcVN3UW1IdG5abE1iWFhnSW5OaUdBQ0pUTSIKCiMgTG9vcCB0aHJvdWdoIGFsbCB2aWRlbyBmaWxlcyBpbiB0aGUgcm9vdCBkaXJlY3RvcnkKZm9yIHZpZGVvX2ZpbGUgaW4gb3MubGlzdGRpcihyb290X2RpcmVjdG9yeSk6CiAgICBpZiB2aWRlb19maWxlLmVuZHN3aXRoKCgiLm1wNCIsICIubW92IiwgIi5ta3YiKSk6ICAjIEFkZCBvdGhlciBmb3JtYXRzIGlmIG5lZWRlZAogICAgICAgIHZpZGVvX3BhdGggPSBvcy5wYXRoLmpvaW4ocm9vdF9kaXJlY3RvcnksIHZpZGVvX2ZpbGUpCiAgICAgICAgcHJpbnQoZiJQcm9jZXNzaW5nIHZpZGVvOiB7dmlkZW9fcGF0aH0iKQoKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgU3RlcCAxOiBUcmFuc2NyaWJlIHRoZSB2aWRlbwogICAgICAgICAgICB0cmFuc2NyaWJlciA9IFRyYW5zY3JpYmVyKCkKICAgICAgICAgICAgdHJhbnNjcmlwdGlvbiA9IHRyYW5zY3JpYmVyLnRyYW5zY3JpYmUoYXVkaW9fZmlsZV9wYXRoPXZpZGVvX3BhdGgpCiAgICAgICAgICAgIHByaW50KCJUcmFuc2NyaXB0aW9uIGNvbXBsZXRlZC4iKQoKICAgICAgICAgICAgIyBTdGVwIDI6IEZpbmQgY2xpcHMgYmFzZWQgb24gdHJhbnNjcmlwdGlvbgogICAgICAgICAgICBjbGlwZmluZGVyID0gQ2xpcEZpbmRlcigpCiAgICAgICAgICAgIGNsaXBzID0gY2xpcGZpbmRlci5maW5kX2NsaXBzKHRyYW5zY3JpcHRpb249dHJhbnNjcmlwdGlvbikKICAgICAgICAgICAgcHJpbnQoZiJGb3VuZCB7bGVuKGNsaXBzKX0gY2xpcHMuIikKCiAgICAgICAgICAgICMgU3RlcCAzOiBSZXNpemUgdGhlIHZpZGVvIHRvIGZvY3VzIG9uIHRoZSBzcGVha2VyCiAgICAgICAgICAgIGNyb3BzID0gcmVzaXplKAogICAgICAgICAgICAgICAgdmlkZW9fZmlsZV9wYXRoPXZpZGVvX3BhdGgsCiAgICAgICAgICAgICAgICBweWFubm90ZV9hdXRoX3Rva2VuPXB5YW5ub3RlX2F1dGhfdG9rZW4sCiAgICAgICAgICAgICAgICBhc3BlY3RfcmF0aW89KDksIDE2KSAgIyBUYXJnZXQgdmVydGljYWwgYXNwZWN0IHJhdGlvCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoIlZpZGVvIHJlc2l6aW5nIGNvbXBsZXRlZC4iKQoKICAgICAgICAgICAgIyBTdGVwIDQ6IEVkaXQgdGhlIHZpZGVvIHVzaW5nIHRoZSBvYnRhaW5lZCBjbGlwcyBhbmQgcmVzaXplZCBkaW1lbnNpb25zCiAgICAgICAgICAgIG1lZGlhX2VkaXRvciA9IE1lZGlhRWRpdG9yKCkKICAgICAgICAgICAgbWVkaWFfZmlsZSA9IEF1ZGlvVmlkZW9GaWxlKHZpZGVvX3BhdGgpCiAgICAgICAgICAgIG91dHB1dF92aWRlb19wYXRoID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXJlY3RvcnksIGYicmVzaXplZF97dmlkZW9fZmlsZX0iKQoKICAgICAgICAgICAgcmVzaXplZF92aWRlb19maWxlID0gbWVkaWFfZWRpdG9yLnJlc2l6ZV92aWRlbygKICAgICAgICAgICAgICAgIG9yaWdpbmFsX3ZpZGVvX2ZpbGU9bWVkaWFfZmlsZSwKICAgICAgICAgICAgICAgIHJlc2l6ZWRfdmlkZW9fZmlsZV9wYXRoPW91dHB1dF92aWRlb19wYXRoLAogICAgICAgICAgICAgICAgd2lkdGg9Y3JvcHMuY3JvcF93aWR0aCwKICAgICAgICAgICAgICAgIGhlaWdodD1jcm9wcy5jcm9wX2hlaWdodCwKICAgICAgICAgICAgICAgIHNlZ21lbnRzPWNyb3BzLnRvX2RpY3QoKVsic2VnbWVudHMiXSwKICAgICAgICAgICAgKQogICAgICAgICAgICBwcmludChmIlJlc2l6ZWQgdmlkZW8gc2F2ZWQgdG86IHtvdXRwdXRfdmlkZW9fcGF0aH0iKQoKICAgICAgICAgICAgIyBTdGVwIDU6IE1vdmUgdGhlIG9yaWdpbmFsIHZpZGVvIHRvIHRoZSBhcmNoaXZlIGRpcmVjdG9yeQogICAgICAgICAgICBhcmNoaXZlZF92aWRlb19wYXRoID0gb3MucGF0aC5qb2luKG9yaWdpbmFsX3ZpZGVvc19kaXJlY3RvcnksIHZpZGVvX2ZpbGUpCiAgICAgICAgICAgIG9zLnJlbmFtZSh2aWRlb19wYXRoLCBhcmNoaXZlZF92aWRlb19wYXRoKQogICAgICAgICAgICBwcmludChmIk1vdmVkIG9yaWdpbmFsIHZpZGVvIHRvOiB7YXJjaGl2ZWRfdmlkZW9fcGF0aH0iKQoKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYiRXJyb3IgcHJvY2Vzc2luZyB7dmlkZW9fcGF0aH06IHtlfSIpCgpwcmludCgiUHJvY2Vzc2luZyBjb21wbGV0ZS4iKQo",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAC1CgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAA0woAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					9,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAAAAAAAAAAAAAAAAAAAAADTCgAAaW1wb3J0IG9zCmZyb20gY2xpcHNhaSBpbXBvcnQgVHJhbnNjcmliZXIsIENsaXBGaW5kZXIsIHJlc2l6ZSwgTWVkaWFFZGl0b3IsIEF1ZGlvVmlkZW9GaWxlCgojIGFkZGluZyBhIG1pc3NpbmcgZGVwZW5kZW5jeToKaW1wb3J0IG5sdGsKbmx0ay5kb3dubG9hZCgncHVua3QnKQoKIyBEZWZpbmUgdGhlIHBhdGhzIGZvciByb290LCBvdXRwdXQsIGFuZCBhcmNoaXZlIGRpcmVjdG9yaWVzCnJvb3RfZGlyZWN0b3J5ID0gIi4iICAjIFZpZGVvcyBhcmUgaW4gdGhlIHJvb3QgZGlyZWN0b3J5Cm91dHB1dF9kaXJlY3RvcnkgPSAiLi8nZmluaXNoZWQgY2xpcHMnIgpvcmlnaW5hbF92aWRlb3NfZGlyZWN0b3J5ID0gIi4vJ29yaWdpbmFsIHZpZHMnIgoKIyBFbnN1cmUgb3V0cHV0IGFuZCBhcmNoaXZlIGRpcmVjdG9yaWVzIGV4aXN0Cm9zLm1ha2VkaXJzKG91dHB1dF9kaXJlY3RvcnksIGV4aXN0X29rPVRydWUpCm9zLm1ha2VkaXJzKG9yaWdpbmFsX3ZpZGVvc19kaXJlY3RvcnksIGV4aXN0X29rPVRydWUpCgojIFB5YW5ub3RlIGF1dGhlbnRpY2F0aW9uIHRva2VuIChyZXF1aXJlZCBmb3IgZGlhcml6YXRpb24pCnB5YW5ub3RlX2F1dGhfdG9rZW4gPSAiaGZfV1dTeHhQc3VzcVN3UW1IdG5abE1iWFhnSW5OaUdBQ0pUTSIKCiMgTG9vcCB0aHJvdWdoIGFsbCB2aWRlbyBmaWxlcyBpbiB0aGUgcm9vdCBkaXJlY3RvcnkKZm9yIHZpZGVvX2ZpbGUgaW4gb3MubGlzdGRpcihyb290X2RpcmVjdG9yeSk6CiAgICBpZiB2aWRlb19maWxlLmVuZHN3aXRoKCgiLm1wNCIsICIubW92IiwgIi5ta3YiKSk6ICAjIEFkZCBvdGhlciBmb3JtYXRzIGlmIG5lZWRlZAogICAgICAgIHZpZGVvX3BhdGggPSBvcy5wYXRoLmpvaW4ocm9vdF9kaXJlY3RvcnksIHZpZGVvX2ZpbGUpCiAgICAgICAgcHJpbnQoZiJQcm9jZXNzaW5nIHZpZGVvOiB7dmlkZW9fcGF0aH0iKQoKICAgICAgICB0cnk6CiAgICAgICAgICAgICMgU3RlcCAxOiBUcmFuc2NyaWJlIHRoZSB2aWRlbwogICAgICAgICAgICB0cmFuc2NyaWJlciA9IFRyYW5zY3JpYmVyKG11bHRpbGluZ3VhbD1UcnVlLCBob3R3b3Jkcz1bXSkKICAgICAgICAgICAgdHJhbnNjcmlwdGlvbiA9IHRyYW5zY3JpYmVyLnRyYW5zY3JpYmUoYXVkaW9fZmlsZV9wYXRoPXZpZGVvX3BhdGgpCiAgICAgICAgICAgIHByaW50KCJUcmFuc2NyaXB0aW9uIGNvbXBsZXRlZC4iKQoKICAgICAgICAgICAgIyBTdGVwIDI6IEZpbmQgY2xpcHMgYmFzZWQgb24gdHJhbnNjcmlwdGlvbgogICAgICAgICAgICBjbGlwZmluZGVyID0gQ2xpcEZpbmRlcigpCiAgICAgICAgICAgIGNsaXBzID0gY2xpcGZpbmRlci5maW5kX2NsaXBzKHRyYW5zY3JpcHRpb249dHJhbnNjcmlwdGlvbikKICAgICAgICAgICAgcHJpbnQoZiJGb3VuZCB7bGVuKGNsaXBzKX0gY2xpcHMuIikKCiAgICAgICAgICAgICMgU3RlcCAzOiBSZXNpemUgdGhlIHZpZGVvIHRvIGZvY3VzIG9uIHRoZSBzcGVha2VyCiAgICAgICAgICAgIGNyb3BzID0gcmVzaXplKAogICAgICAgICAgICAgICAgdmlkZW9fZmlsZV9wYXRoPXZpZGVvX3BhdGgsCiAgICAgICAgICAgICAgICBweWFubm90ZV9hdXRoX3Rva2VuPXB5YW5ub3RlX2F1dGhfdG9rZW4sCiAgICAgICAgICAgICAgICBhc3BlY3RfcmF0aW89KDksIDE2KSAgIyBUYXJnZXQgdmVydGljYWwgYXNwZWN0IHJhdGlvCiAgICAgICAgICAgICkKICAgICAgICAgICAgcHJpbnQoIlZpZGVvIHJlc2l6aW5nIGNvbXBsZXRlZC4iKQoKICAgICAgICAgICAgIyBTdGVwIDQ6IEVkaXQgdGhlIHZpZGVvIHVzaW5nIHRoZSBvYnRhaW5lZCBjbGlwcyBhbmQgcmVzaXplZCBkaW1lbnNpb25zCiAgICAgICAgICAgIG1lZGlhX2VkaXRvciA9IE1lZGlhRWRpdG9yKCkKICAgICAgICAgICAgbWVkaWFfZmlsZSA9IEF1ZGlvVmlkZW9GaWxlKHZpZGVvX3BhdGgpCiAgICAgICAgICAgIG91dHB1dF92aWRlb19wYXRoID0gb3MucGF0aC5qb2luKG91dHB1dF9kaXJlY3RvcnksIGYicmVzaXplZF97dmlkZW9fZmlsZX0iKQoKICAgICAgICAgICAgcmVzaXplZF92aWRlb19maWxlID0gbWVkaWFfZWRpdG9yLnJlc2l6ZV92aWRlbygKICAgICAgICAgICAgICAgIG9yaWdpbmFsX3ZpZGVvX2ZpbGU9bWVkaWFfZmlsZSwKICAgICAgICAgICAgICAgIHJlc2l6ZWRfdmlkZW9fZmlsZV9wYXRoPW91dHB1dF92aWRlb19wYXRoLAogICAgICAgICAgICAgICAgd2lkdGg9Y3JvcHMuY3JvcF93aWR0aCwKICAgICAgICAgICAgICAgIGhlaWdodD1jcm9wcy5jcm9wX2hlaWdodCwKICAgICAgICAgICAgICAgIHNlZ21lbnRzPWNyb3BzLnRvX2RpY3QoKVsic2VnbWVudHMiXSwKICAgICAgICAgICAgKQogICAgICAgICAgICBwcmludChmIlJlc2l6ZWQgdmlkZW8gc2F2ZWQgdG86IHtvdXRwdXRfdmlkZW9fcGF0aH0iKQoKICAgICAgICAgICAgIyBTdGVwIDU6IE1vdmUgdGhlIG9yaWdpbmFsIHZpZGVvIHRvIHRoZSBhcmNoaXZlIGRpcmVjdG9yeQogICAgICAgICAgICBhcmNoaXZlZF92aWRlb19wYXRoID0gb3MucGF0aC5qb2luKG9yaWdpbmFsX3ZpZGVvc19kaXJlY3RvcnksIHZpZGVvX2ZpbGUpCiAgICAgICAgICAgIG9zLnJlbmFtZSh2aWRlb19wYXRoLCBhcmNoaXZlZF92aWRlb19wYXRoKQogICAgICAgICAgICBwcmludChmIk1vdmVkIG9yaWdpbmFsIHZpZGVvIHRvOiB7YXJjaGl2ZWRfdmlkZW9fcGF0aH0iKQoKICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6CiAgICAgICAgICAgIHByaW50KGYiRXJyb3IgcHJvY2Vzc2luZyB7dmlkZW9fcGF0aH06IHtlfSIpCgpwcmludCgiUHJvY2Vzc2luZyBjb21wbGV0ZS4iKQo",
-					"AQAAAAAAAAABAAAAAAAAAAAAAADTCgAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAA8woAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					13,
-					1,
-					"paste",
-					null,
-					"AgAAALsDAAAAAAAAkAQAAAAAAAAAAAAAkAQAAAAAAACQBAAAAAAAAAEBAAAjIFN0ZXAgMTogVHJhbnNjcmliZSB0aGUgdmlkZW8KICAgICAgICAgICAgIyBSZW1vdmVkICdtdWx0aWxpbmd1YWwnIGFuZCAnaG90d29yZHMnIGFyZ3VtZW50cwogICAgICAgICAgICB0cmFuc2NyaWJlciA9IFRyYW5zY3JpYmVyKCkKICAgICAgICAgICAgdHJhbnNjcmlwdGlvbiA9IHRyYW5zY3JpYmVyLnRyYW5zY3JpYmUoYXVkaW9fZmlsZV9wYXRoPXZpZGVvX3BhdGgpCiAgICAgICAgICAgIHByaW50KCJUcmFuc2NyaXB0aW9uIGNvbXBsZXRlZC4iKQ",
-					"AQAAAAAAAAABAAAAuwMAAAAAAAC8BAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					16,
-					2,
-					"indent",
-					null,
-					"BgAAANoDAAAAAAAA3gMAAAAAAAAAAAAAMAQAAAAAAAA0BAAAAAAAAAAAAAB3BAAAAAAAAHsEAAAAAAAAAAAAANoDAAAAAAAA3gMAAAAAAAAAAAAANAQAAAAAAAA4BAAAAAAAAAAAAAB/BAAAAAAAAIMEAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAkAQAAAAAAADaAwAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					17,
-					1,
-					"indent",
-					null,
-					"AwAAANoDAAAAAAAA3gMAAAAAAAAAAAAAOAQAAAAAAAA8BAAAAAAAAAAAAACHBAAAAAAAAIsEAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAA2gMAAAAAAACoBAAAAAAAAAAAAAAAAPC/"
-				]
 			]
-		},
-		{
-			"file": "/C/Users/austi/Desktop/pics/longform/test1/clipme.py",
-			"settings":
-			{
-				"buffer_size": 450,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "from clipsai import ClipFinder, Transcriber"
-			},
-			"undo_stack":
-			[
-				[
-					1,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAAQAEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					77,
-					1,
-					"left_delete",
-					null,
-					"AQAAAAAAAAAAAAAAAAAAAAAAAABAAQAAZnJvbSBjbGlwc2FpIGltcG9ydCBDbGlwRmluZGVyLCBUcmFuc2NyaWJlcgoKdHJhbnNjcmliZXIgPSBUcmFuc2NyaWJlcigpCnRyYW5zY3JpcHRpb24gPSB0cmFuc2NyaWJlci50cmFuc2NyaWJlKGF1ZGlvX2ZpbGVfcGF0aD0iL2Ficy9wYXRoL3RvL3ZpZGVvLm1wNCIpCgpjbGlwZmluZGVyID0gQ2xpcEZpbmRlcigpCmNsaXBzID0gY2xpcGZpbmRlci5maW5kX2NsaXBzKHRyYW5zY3JpcHRpb249dHJhbnNjcmlwdGlvbikKCnByaW50KCJTdGFydFRpbWU6ICIsIGNsaXBzWzBdLnN0YXJ0X3RpbWUpCnByaW50KCJFbmRUaW1lOiAiLCBjbGlwc1swXS5lbmRfdGltZSk",
-					"AQAAAAAAAAABAAAAAAAAAAAAAABAAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					78,
-					1,
-					"paste",
-					null,
-					"AQAAAAAAAAAAAAAAwgEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
-		},
-		{
-			"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipsai/clip/clip.py",
-			"settings":
-			{
-				"buffer_size": 3757,
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
-		},
-		{
-			"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipsai/clip/clipfinder.py",
-			"settings":
-			{
-				"buffer_size": 16670,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/setup.py",
-			"settings":
-			{
-				"buffer_size": 1703,
-				"line_ending": "Windows"
-			}
 		}
 	],
 	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
@@ -303,16 +172,19 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/austi/GitHub",
-		"/C/Users/austi/GitHub/autojump",
-		"/C/Users/austi/GitHub/autoremote",
 		"/C/Users/austi/Desktop",
 		"/C/Users/austi/Desktop/pics",
 		"/C/Users/austi/Desktop/pics/longform",
-		"/C/Users/austi/Desktop/pics/longform/test1"
+		"/C/Users/austi/Desktop/pics/longform/test1",
+		"/C/Users/austi/Desktop/pics/longform/test1/clipsai"
 	],
 	"file_history":
 	[
+		"/C/Users/austi/Desktop/pics/longform/test1/clipme.py",
+		"/C/Users/austi/Desktop/pics/longform/long2clip.py",
+		"/C/Users/austi/Desktop/pics/longform/test1/clipsai/setup.py",
+		"/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipsai/clip/clipfinder.py",
+		"/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipsai/clip/clip.py",
 		"/C/Users/austi/GitHub/spot--the-violation-bot/spot.py",
 		"/C/Users/austi/GitHub/autojump/install.py",
 		"/C/Users/austi/Desktop/pics/longform/test1/clipsai/tests/test_clip.py",
@@ -322,7 +194,6 @@
 		"/C/Users/austi/GitHub/austinwmille.github.io/helicopter.css",
 		"/C/Users/austi/GitHub/austinwmille.github.io/helicopter.html",
 		"/C/Users/austi/Desktop/helicopter/helicopter.css",
-		"/C/Users/austi/Desktop/pics/longform/long2clip.py",
 		"/C/Users/austi/GitHub/austinwmille.github.io/webservices.html",
 		"/C/Users/austi/GitHub/austinwmille.github.io/webservicesstyle.css",
 		"/C/Users/austi/GitHub/austinwmille.github.io/index.html",
@@ -436,8 +307,7 @@
 		"/C/Users/austi/OneDrive/Desktop/job search/organized/Job_Application_Tracker_Template_Enhanced.xlsx",
 		"/C/Users/austi/Downloads/portfolio.pdf",
 		"/C/Users/austi/GitHub/austinwmille.github.io/about.html",
-		"/C/Users/austi/GitHub/austinwmille.github.io/minecraft.html",
-		"/C/Users/austi/Downloads/snapcodes/snapcodeBitmoji.svg"
+		"/C/Users/austi/GitHub/austinwmille.github.io/minecraft.html"
 	],
 	"find":
 	{
@@ -496,56 +366,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/austi/Desktop/pics/longform/long2clip.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2795,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2795,
-								2795
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/austi/Desktop/pics/longform/test1/clipme.py",
+					"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipme.py",
 					"selected": true,
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 450,
+						"buffer_size": 556,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								450
+								416,
+								416
 							]
 						],
 						"settings":
 						{
-							"auto_name": "from clipsai import ClipFinder, Transcriber",
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
@@ -553,99 +391,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipsai/clip/clip.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3757,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								251,
-								251
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/clipsai/clip/clipfinder.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 16670,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/austi/Desktop/pics/longform/test1/clipsai/setup.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1703,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 240.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
 					"stack_multiselect": false,
 					"type": "text"
 				}
